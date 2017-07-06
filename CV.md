@@ -1,4 +1,4 @@
-![](CV_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+<img src="CV_files/figure-markdown_strict/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
 R Markdown
 ----------
