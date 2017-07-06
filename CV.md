@@ -49,11 +49,12 @@ accompanied by those who love me.
     #### Websites
 
     -   If you want to know my portfolio related to **data analysis**
-        consult my web site at
-        [GitHub](https://github.com/shlondon?tab=repositories) y
+        consult my web site at [GitHub](https://github.com/shlondon) y
         [RPubs](http://rpubs.com/Sahlre). If you want to obtain
         information about products related to **research** (published
         articles, participation in scientific events) consult them in
+        [Cvlac
+        Santiago](http://scienti.colciencias.gov.co:8081/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001405817).
 
     #### Social networks
 
