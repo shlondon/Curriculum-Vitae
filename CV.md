@@ -1,32 +1,61 @@
 <img src="CV_files/figure-markdown_strict/unnamed-chunk-1-1.png" style="display: block; margin: auto;" />
 
-R Markdown
-----------
+### Professional profile
 
-This is an R Markdown document. Markdown is a simple formatting syntax
-for authoring HTML, PDF, and MS Word documents. For more details on
-using R Markdown see <http://rmarkdown.rstudio.com>.
+I am an economist oriented to research and data analysis. I have
+developed research on issues related to entrepreneurship and the
+informal economy and have developed data products (software) associated
+with teaching inferential statistics concepts and researching the gender
+gap in entrepreneurship. I considered fundamental data analysis to
+design strategies in both the private and public sectors, and no less
+important for the proper development of scientific research, for that
+reason I am doing the Data Science specialization in Coursera, where I
+am improving my skills in Econometrics and statistics (inferential,
+multivariate, machine learning: supervised algorithms and unsupervised
+algorithms) and in the use of the famous software for data analysis,
+known as R. In this way, my academic and professional interest is in the
+participation of academic projects, consulting projects, private or
+public interdisciplinary projects that contain a high component of data
+analysis for decision making or the support of scientific arguments.
 
-When you click the **Knit** button a document will be generated that
-includes both content as well as the output of any embedded R code
-chunks within the document. You can embed an R code chunk like this:
+Life is wonderful, it has given me an incomparable family, an
+unparalleled companion and an enviable fortune for even the most
+fortunate of men. I dream of becoming a data scientist and a great
+communicator. I hope to continue to value small things, which in my
+opinion are not small, because having the ability to walk, see, smell,
+hug, decide and love make me the strongest of all superheroes. I do not
+want money and fame, only time to build my life, doing what I like and
+accompanied by those who love me.
 
-    summary(cars)
+### Studies
 
-    ##      speed           dist       
-    ##  Min.   : 4.0   Min.   :  2.00  
-    ##  1st Qu.:12.0   1st Qu.: 26.00  
-    ##  Median :15.0   Median : 36.00  
-    ##  Mean   :15.4   Mean   : 42.98  
-    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
-    ##  Max.   :25.0   Max.   :120.00
+-   Specialization: **Data Science** (Currently studying).
+    Specialization offered by Johns Hopkins University through COURSERA
 
-Including Plots
----------------
+-   Master's degree: **Master of Science in Economics**. Universidad
+    Nacional de Colombia. August 2016.
 
-You can also embed plots, for example:
+-   Graduate: **Economist**. Universidad Nacional de Colombia. 2011.
 
-![](CV_files/figure-markdown_strict/pressure-1.png)
+### Contact information
 
-Note that the `echo = FALSE` parameter was added to the code chunk to
-prevent printing of the R code that generated the plot.
+-   Name: Santiago Humberto Londoño Restrepo
+-   Country Colombia
+-   Region: Antioquia
+-   City: Medellín
+-   E-mail: staff: <shlondon8@gmail.com>, institutional:
+    <slondono@coruniamericana.edu.co>.
+
+    #### Websites
+
+    -   If you want to know my portfolio related to **data analysis**
+        consult my web site at
+        [GitHub](https://github.com/shlondon?tab=repositories) y
+        [RPubs](http://rpubs.com/Sahlre). If you want to obtain
+        information about products related to **research** (published
+        articles, participation in scientific events) consult them in
+
+    #### Social networks
+
+    -   [Twitter](https://twitter.com/San_Londono)
+    -   [Linkedin](https://co.linkedin.com/in/santiago-humberto-londoño-restrepo-10112b41)
